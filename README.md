@@ -1,4 +1,4 @@
-# Analyzing-Motorcycle-Part-Sales :mountain_bicyclist:
+# (DataCamp Project) Analyzing-Motorcycle-Part-Sales :mountain_bicyclist:
 Here's a fictional company that sells motorcycle parts, and they've asked for some help in analyzing their sales data!
 
 They operate three warehouses in the area, selling both retail and wholesale. They offer a variety of parts and accept credit cards, cash, and bank transfer as payment methods. However, each payment type incurs a different fee.
